@@ -17,7 +17,7 @@ Add to the deps, get deps (`mix deps.get`), compile them (`mix deps.compile`).
 ```elixir
 def deps do
   [
-    {:ash_sqids, "~> 0.0.1"},
+    {:ash_sqids, "~> 0.1.0"},
   ]
 end
 ```
